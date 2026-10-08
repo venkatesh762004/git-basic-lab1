@@ -1,2 +1,1 @@
-print('Hello Git') 
-print('Git practice')
+print("Hello from main")
